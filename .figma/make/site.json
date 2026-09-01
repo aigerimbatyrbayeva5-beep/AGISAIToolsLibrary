@@ -1,0 +1,10 @@
+{
+  "description": "Provides a unified multilingual AI tools catalog with seamless language switching for educators to easily find and explore teaching resources in English, Russian, and Kazakh.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
